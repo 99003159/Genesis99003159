@@ -1,4 +1,4 @@
-# MovieTicketBookingSystem  SFID : 104679
+# MovieTicketBookingSystem  
 To create movie ticket booking system using C
 |Build|
 |:--:|
